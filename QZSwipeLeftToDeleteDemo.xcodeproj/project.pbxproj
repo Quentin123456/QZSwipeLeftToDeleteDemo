@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A18F79A7239661AF00FA040B /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A18F79A6239661AF00FA040B /* SecondViewController.m */; };
 		EB1BE63B2004A56A00135BAC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EB1BE63A2004A56A00135BAC /* AppDelegate.m */; };
 		EB1BE63E2004A56A00135BAC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB1BE63D2004A56A00135BAC /* ViewController.m */; };
 		EB1BE6412004A56A00135BAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB1BE63F2004A56A00135BAC /* Main.storyboard */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A18F79A5239661AF00FA040B /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		A18F79A6239661AF00FA040B /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		EB1BE6362004A56A00135BAC /* QZSwipeLeftToDeleteDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QZSwipeLeftToDeleteDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB1BE6392004A56A00135BAC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EB1BE63A2004A56A00135BAC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				EB1BE63A2004A56A00135BAC /* AppDelegate.m */,
 				EB1BE63C2004A56A00135BAC /* ViewController.h */,
 				EB1BE63D2004A56A00135BAC /* ViewController.m */,
+				A18F79A5239661AF00FA040B /* SecondViewController.h */,
+				A18F79A6239661AF00FA040B /* SecondViewController.m */,
 				EB1BE66B2004A6B000135BAC /* DeleteTableViewCell.h */,
 				EB1BE66C2004A6B000135BAC /* DeleteTableViewCell.m */,
 				EB1BE66D2004A6B000135BAC /* DeleteTableViewCell.xib */,
@@ -274,6 +279,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A18F79A7239661AF00FA040B /* SecondViewController.m in Sources */,
 				EB1BE63E2004A56A00135BAC /* ViewController.m in Sources */,
 				EB1BE6492004A56A00135BAC /* main.m in Sources */,
 				EB1BE66E2004A6B000135BAC /* DeleteTableViewCell.m in Sources */,
