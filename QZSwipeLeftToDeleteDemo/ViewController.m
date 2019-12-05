@@ -89,11 +89,11 @@
 
 
 // 隐藏状态栏
-//- (BOOL)prefersStatusBarHidden {
-//
-//    // [[UIApplication sharedApplication] setStatusBarHidden:YES];// iOS9已经弃用
-//    return YES;
-//}
+- (BOOL)prefersStatusBarHidden {
+
+    // [[UIApplication sharedApplication] setStatusBarHidden:YES];// iOS9已经弃用
+    return YES;
+}
 
 
 
